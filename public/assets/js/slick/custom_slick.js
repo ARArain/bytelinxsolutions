@@ -1466,7 +1466,7 @@ $('.category-panel-slider').slick({
 $('.feature-panel-slider').slick({
     arrows: true,
     infinite: true,
-    slidesToShow: 6,
+    slidesToShow: 5,
     slidesToScroll: 1,
     responsive: [{
         breakpoint: 1745,
